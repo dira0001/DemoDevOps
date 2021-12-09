@@ -1,4 +1,5 @@
- DemoDevOps
-Repo for showcasing Git usage along with DevOps 
+# DemoDevOps
+Repo for showcasing Git usage
 First showcasing the git branch and git commit!
-:P
+# First showcasing the git branch and git commit 
+Adding new lines for testing
